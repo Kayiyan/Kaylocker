@@ -28,6 +28,6 @@ Quan sát và nhìn nhận chung thì đường dẫn challenge có thể chứa
  
  ![image](https://user-images.githubusercontent.com/126185640/229754046-14cc7165-1090-4563-921e-37a18eb9c557.png)
  
- và ta nhận được đoạn flag cần tìm của bài : picoCTF{Sch3DUL7NG_T45K3_L1NUX_d83baed1}
+ và ta nhận được đoạn flag cần tìm của bài : `picoCTF{Sch3DUL7NG_T45K3_L1NUX_d83baed1}`
  
 
