@@ -35,7 +35,7 @@ Có vẻ như việc lồng câu lệnh vào dấu ngoặc và kết thúc bằn
 Chú ý đến phần `Hints` của bài cho có đề cập đến các shell syntax khác nhau.
 
 thì về linux ta có linux shell hoặc về window ta có window shell, ngoài ra khi học về python mình sẽ có python shell mở python shell ngay trên terminal đang sử dụng.
-Hãy thử mở python shell bằng câu lệnh sau : `(python3)`
+Hãy thử mở python shell bằng câu lệnh sau : `(python3);`
 
 
 
