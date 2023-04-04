@@ -12,4 +12,4 @@ Launch instance và kết nối tới máy chủ và sử dụng những câu l�
 
 và chúng ta có được đoạn flag cần tìm : picoCTF{uS1ng_v1m_3dit0r_ad091ce1}
 
-Cụ thể các bước làm và giải thích mình đã ghi ở bài chrono đầu tiên : General Skills/chrono/chrono.md
+Cụ thể các bước làm và giải thích mình đã ghi ở bài chrono đầu tiên : [General Skills/chrono/chrono.md](https://github.com/Kayiyan/picoCTF-2023/blob/85bce7334232704f8903370ee2332437a08e59fc/General%20Skills/chrono/chrono.md)
