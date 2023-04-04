@@ -1,6 +1,6 @@
 # Overview 
-* 100 points 
-* Tags : linux
+* `100 points `
+* Tags : `linux`
 
 # Description 
 How to automate tasks to run at intervals on linux servers?
@@ -17,13 +17,14 @@ mình thực hiện một số lệnh linux cơ bản lên máy chủ sau khi đ
 ![image](https://user-images.githubusercontent.com/126185640/229752623-abe3ae29-af03-459a-b5fb-2e253fb88148.png)
 
 Quan sát và nhìn nhận chung thì đường dẫn challenge có thể chứa flag cần tìm nhất hoặc ta có thể check từng đường dẫn một :
-- di chuyển vào trong đường dẫn challenge và xem bên trong có chứa những file gì :![image](https://user-images.githubusercontent.com/126185640/229753241-937f8a18-eb69-475d-97e9-7db23cfd2276.png)
+- di chuyển vào trong đường dẫn `challenge` và xem bên trong có chứa những file gì :
+ ![image](https://user-images.githubusercontent.com/126185640/229753241-937f8a18-eb69-475d-97e9-7db23cfd2276.png)
 
-- cụ thể về metadata.json file : 
+- cụ thể về `metadata.json file` : 
  
  ![image](https://user-images.githubusercontent.com/126185640/229753663-f8e0811f-d6c8-44ed-b45f-d042ce5f2601.png)
  
- Hãy thử đọc file này bằng câu lệnh 'cat' : 
+ Hãy thử đọc file này bằng câu lệnh  `cat` : 
  
  ![image](https://user-images.githubusercontent.com/126185640/229754046-14cc7165-1090-4563-921e-37a18eb9c557.png)
  
