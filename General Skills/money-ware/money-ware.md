@@ -12,7 +12,7 @@ The first letter of the malware name should be capitalized and the rest lowercas
 Your friend just got hacked and has been asked to pay some bitcoins to 1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX. 
 He doesn’t seem to understand what is going on and asks you for advice. Can you identify what malware he’s being a victim of?
 
-# Tiếp cận #
+# Tiếp cận và giải quyết #
 Từ phần Description bài có đề cập đến bitcoin cùng với 1 đoạn mã : 1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX.
 Hãy thử search đoạn mã này lên google để tìm kiếm thêm thông tin về nó : 
 ![image](https://user-images.githubusercontent.com/126185640/229757692-bce09879-0d03-48c4-b642-9b3f3a3329f1.png)
