@@ -1,6 +1,6 @@
 # Overview #
-Points : 100
-Tags : `Analog`
+- Points : 100
+- Tags : `Analog`
 
 # Description #
 Can you crack this black box?
