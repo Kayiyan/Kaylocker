@@ -8,7 +8,7 @@ Dưới đây là write up về những thử thách mà tôi đã giải quyế
 
 ## Challenges ##
 <details>
-  <summary>Binary Exploitation (6/7 )</summary>
+  <summary>Binary Exploitation (6/7)</summary>
 
 * babygame01 (Solved)
 * two-sum (Solved)
@@ -20,7 +20,7 @@ Dưới đây là write up về những thử thách mà tôi đã giải quyế
 </details>
 
 <details>
-  <summary>Cryptography (3/7 )</summary>
+  <summary>Cryptography (3/7)</summary>
 
 * HideToSee (Solved)
 * ReadMyCert (Solved)
@@ -30,7 +30,7 @@ Dưới đây là write up về những thử thách mà tôi đã giải quyế
 </details>
 
 <details>
-  <summary>Forensics (5/7 )</summary>
+  <summary>Forensics (5/7)</summary>
 
 * hideme (Solved)
 * PcapPoisoning (Solved)
@@ -55,7 +55,7 @@ Dưới đây là write up về những thử thách mà tôi đã giải quyế
 </details>
 
 <details>
-  <summary>Reverse Engineering (8/9 )</summary>
+  <summary>Reverse Engineering (8/9)</summary>
 
 * Ready Gladiator 0 (Solved)
 * Reverse (Solved)
@@ -69,7 +69,7 @@ Dưới đây là write up về những thử thách mà tôi đã giải quyế
 </details>
 
 <details>
-  <summary>Web Exploitation (4/7 )</summary>
+  <summary>Web Exploitation (4/7)</summary>
 
 * findme (Solved)
 * MatchTheRegex (Solved)
