@@ -1,6 +1,6 @@
 # Overview #
-Points : 200
-Tags : `CoreWars`
+* Points : 200
+* Tags : `CoreWars`
 
 # Description #
 
