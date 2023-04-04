@@ -5,7 +5,7 @@ Tags : base64
 # Hints < bài cho > : #
 * Multiple decoding is always good.
 
-# Tiếp cận #
+# Tiếp cận và giải quyết  #
 ![image](https://user-images.githubusercontent.com/126185640/229762457-d6ac1289-b5aa-4c51-97db-b18c10eb909e.png)
 
 Nhấp vào đường dẫn bài đề cập để tải file của bài về để phân tích.
