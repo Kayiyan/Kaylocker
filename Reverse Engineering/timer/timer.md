@@ -17,7 +17,7 @@ thử cài đặt file đó trên  thiết bị `android` và mình thu được
 
 ![image](https://user-images.githubusercontent.com/126185640/229862023-5a749258-1d17-4897-b1fd-cf4486ff1698.png)
 
-Hãy thử kiếm tra phiên bản của ứng dụng : 
+Hãy thử kiểm tra phiên bản của ứng dụng : 
 
 ![image](https://user-images.githubusercontent.com/126185640/229862273-2b08b972-d157-4d57-94b5-a5e282c3f118.png)
 
