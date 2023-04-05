@@ -38,7 +38,7 @@ Lưu lại những chỉnh sửa vừa rồi và mở lại game :
 
 ![image](https://user-images.githubusercontent.com/126185640/230121441-54830e7f-0858-4564-ace2-b94eff123fb3.png)
 
-Di chuyển đến cột cờ của game và lấy flag yêu cầu : 
+Di chuyển đến cột cờ < chạm lá cờ> của game và lấy flag yêu cầu : 
 
 ![image](https://user-images.githubusercontent.com/126185640/230121358-0ce87c86-3256-4438-9c2d-bbf1ec31a0c0.png)
 
