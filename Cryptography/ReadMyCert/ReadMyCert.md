@@ -21,6 +21,6 @@ Nhập đoạn mã vào và decode :
 
 ![image](https://user-images.githubusercontent.com/126185640/229822804-81c0865c-6daa-4c84-af80-f25022ac3dd3.png)
 
-flag thu được : 	`picoCTF{read_mycert_a7163be8`
+Flag thu được : 	`picoCTF{read_mycert_a7163be8`
 
 
