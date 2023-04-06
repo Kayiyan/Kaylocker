@@ -1,5 +1,5 @@
 
-# picoCTF 2023 Write-up #
+# picoCTF 2023 Writeup #
 # Overview
 Dưới đây là write up về những thử thách mà tôi đã giải quyết trong sự kiện picoCTF 2023
 # Progress
