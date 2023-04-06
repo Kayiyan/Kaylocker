@@ -57,7 +57,7 @@ Dưới đây là write up về những thử thách mà tôi đã giải quyế
 <details>
   <summary>Reverse Engineering (8/9)</summary>
 
-* [Ready Gladiator](https://github.com/Kayiyan/picoCTF-2023-Writeup/blob/12ebdddede8edcc3cd99cc85c07b1436a4e14afd/Reverse%20Engineering/Ready%20Gladiator%200/Ready_Gladiator_0.md) 0 (Solved)
+* [Ready Gladiator 0](https://github.com/Kayiyan/picoCTF-2023-Writeup/blob/12ebdddede8edcc3cd99cc85c07b1436a4e14afd/Reverse%20Engineering/Ready%20Gladiator%200/Ready_Gladiator_0.md)  (Solved)
 * [Reverse](https://github.com/Kayiyan/picoCTF-2023-Writeup/blob/12ebdddede8edcc3cd99cc85c07b1436a4e14afd/Reverse%20Engineering/Reverse/Reverse.md) (Solved)
 * [Safe Opener 2](https://github.com/Kayiyan/picoCTF-2023-Writeup/blob/12ebdddede8edcc3cd99cc85c07b1436a4e14afd/Reverse%20Engineering/Safe%20Opener%202/Safe_Opener_2.md) (Solved)
 * [timer](https://github.com/Kayiyan/picoCTF-2023-Writeup/blob/12ebdddede8edcc3cd99cc85c07b1436a4e14afd/Reverse%20Engineering/timer/timer.md) (Solved)
